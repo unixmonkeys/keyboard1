@@ -1,4 +1,4 @@
 [{a:7},"Start","1","2","3","4","Reh Mark","Up"],
 ["Stop","5","6","7",".","Left","Dn","Right"],
-["Oct Up","A","B","C","D","Chord","Tie","Slur"],
-["Oct Dn","E","F","G","0","Flat","Natural","Sharp"]
+["Oct Up","E","F","G","0","Chord","Tie","Slur"],
+["Oct Dn","A","B","C","D","Flat","Natural","Sharp"]
